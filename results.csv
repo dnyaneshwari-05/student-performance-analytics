@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Maths,Statistics,Data_Structures,English,Attendance,Total,Average,Grade,Result,Attendance_Status
+S001,Aarav Patil,Computer Science,88,92,85,90,78,94,433,86.6,A,Pass,OK
+S002,Priya Deshmukh,Computer Science,95,89,91,93,85,97,453,90.6,A+,Pass,OK
+S003,Rohan Jadhav,Information Technology,67,58,62,70,65,82,322,64.4,C,Pass,OK
+S004,Sneha Kulkarni,Data Science,91,94,96,88,90,95,459,91.8,A+,Pass,OK
+S005,Vikram Shinde,Mechanical,45,38,42,50,60,68,235,47.0,E,Fail,Low
+S006,Anjali More,Information Technology,78,74,80,72,82,88,386,77.2,B,Pass,OK
+S007,Karan Pawar,Computer Science,55,48,52,60,58,76,273,54.6,D,Pass,OK
+S008,Neha Gaikwad,Data Science,84,87,90,82,88,92,431,86.2,A,Pass,OK
+S009,Omkar Salunkhe,Electronics,36,42,40,45,55,65,218,43.6,E,Fail,Low
+S010,Pooja Bhosale,Computer Science,72,68,75,70,80,85,365,73.0,B,Pass,OK
+S011,Rahul Chavan,Mechanical,60,52,48,58,66,72,284,56.8,D,Pass,Low
+S012,Isha Joshi,Data Science,93,97,95,92,89,98,466,93.2,A+,Pass,OK
+S013,Siddharth Kale,Electronics,64,70,66,62,71,80,333,66.6,C,Pass,OK
+S014,Meera Nair,Information Technology,81,79,83,85,87,90,415,83.0,A,Pass,OK
+S015,Aditya Thorat,Computer Science,40,35,44,48,52,60,219,43.8,E,Fail,Low
+S016,Kavya Reddy,Data Science,76,82,78,80,84,91,400,80.0,A,Pass,OK
+S017,Harsh Mehta,Mechanical,58,61,55,63,69,78,306,61.2,C,Pass,OK
+S018,Divya Pillai,Information Technology,89,85,87,91,93,96,445,89.0,A,Pass,OK
+S019,Tejas Wagh,Electronics,50,46,58,54,62,74,270,54.0,D,Pass,Low
+S020,Riya Sharma,Computer Science,70,76,72,68,79,86,365,73.0,B,Pass,OK
